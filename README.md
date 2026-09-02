@@ -4,21 +4,17 @@ Welcome to my GIS and Cartography project repository. This space brings together
 
 The purpose of this portfolio is to document workflows in geotechnologies, applying vector and raster data processing techniques, Coordinate Reference System (CRS) parametrization, and layout design according to cartographic standards.
 
-Repository Structure
 Each project is organized in its respective folder, containing:
 
-The final map exported as a high-resolution image.
+- The final map exported as a high-resolution image.
+- Detailed technical documentation.
 
-Detailed technical documentation (data sources, methodology, and coordinate system).
+Applied Skills and Tools:
 
-- Applied Skills and Tools
 - Software & Geotechnologies: QGIS 3.40.14, Spatial Data Processing, Digital Image Processing (DIP).
+- Spatial Databases: MapBiomas, SRTM/Embrapa, IBGE, INPE, USGS.
+- Cartography: Coordinate Reference Systems (SIRGAS 2000, UTM, Albers), Map Projections, Cartographic Design, and Thematic Symbology.
 
-Spatial Databases: MapBiomas, SRTM/Embrapa, IBGE, INPE, USGS.
-
-Cartography: Coordinate Reference Systems (SIRGAS 2000, UTM, Albers), Map Projections, Cartographic Design, and Thematic Symbology.
-
-Author
+Author:
 Matheus Dias de Oliveira
-
 Geography / GIS and Spatial Analysis
