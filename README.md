@@ -5,8 +5,8 @@ PT: Mapeamento do uso e cobertura do solo no município de Ipiranga de Goiás (G
 EN: Land use and land cover mapping for the municipality of Ipiranga de Goiás, Goiás State (Brazil). Developed in QGIS using thematic raster data from the MapBiomas Project (2022 Collection). The map highlights the spatial distribution of agricultural activities (predominantly pasture and temporary crops) alongside remaining native vegetation patches (savanna and forest formations).
 
 Ficha Técnica
-Software: QGIS 3.40.14
 
+Software: QGIS 3.40.14
 Área de Estudo: Ipiranga de Goiás - GO, Brasil
 Fonte dos Dados: MapBiomas (Base 2022)
 Sistema de Coordenadas: Geográficas / Datum: Brazil Albers
