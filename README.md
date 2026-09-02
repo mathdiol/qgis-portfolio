@@ -1,25 +1,24 @@
-Portfólio de Geoprocessamento e Cartografia Digital
+GIS & Digital Cartography Portfolio
 
-Bem-vindo ao meu repositório de projetos em Geoprocessamento e Cartografia. Este espaço reúne mapeamentos temáticos, análises espaciais e produtos cartográficos elaborados no software QGIS, cobrindo tópicos de uso e cobertura do solo, modelos digitais de elevação, análise do relevo e dinâmicas territoriais.
+Welcome to my GIS and Cartography project repository. This space brings together thematic maps, spatial analyses, and cartographic products developed using QGIS software, covering land use and land cover, digital elevation models, relief analysis, and spatial dynamics.
 
-O objetivo deste portfólio é documentar fluxos de trabalho em geotecnologias, aplicando técnicas de processamento de dados vetoriais e matriciais (raster), parametrização de Sistemas de Referência de Coordenadas (SRC) e elaboração de layouts segundo normas cartográficas.
+The purpose of this portfolio is to document workflows in geotechnologies, applying vector and raster data processing techniques, Coordinate Reference System (CRS) parametrization, and layout design according to cartographic standards.
 
-Estrutura do Repositório:
+Repository Structure
+Each project is organized in its respective folder, containing:
 
-Cada projeto está organizado em sua respectiva pasta, contendo:
+The final map exported as a high-resolution image.
 
-O mapa final exportado em formato de imagem de alta resolução.
+Detailed technical documentation (data sources, methodology, and coordinate system).
 
-A documentação técnica detalhada (fonte dos dados, metodologia e sistema de coordenadas).
+- Applied Skills and Tools
+- Software & Geotechnologies: QGIS 3.40.14, Spatial Data Processing, Digital Image Processing (DIP).
 
-Habilidades e Ferramentas Aplicadas:
+Spatial Databases: MapBiomas, SRTM/Embrapa, IBGE, INPE, USGS.
 
-Softwares e Geotecnologias: QGIS 3.40.14, Tratamento de Dados Espaciais, Processamento Digital de Imagens (PDI).
+Cartography: Coordinate Reference Systems (SIRGAS 2000, UTM, Albers), Map Projections, Cartographic Design, and Thematic Symbology.
 
-Bases de Dados Espaciais: MapBiomas, SRTM/Embrapa, IBGE, INPE, USGS.
-
-Cartografia: Sistemas de Referência de Coordenadas (SIRGAS 2000, UTM, Albers), Projeções Cartográficas, Design e Simbologia Temática.
-
-Autor
+Author
 Matheus Dias de Oliveira
-Geografia / Geoprocessamento e Análise Espacial
+
+Geography / GIS and Spatial Analysis
