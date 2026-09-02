@@ -1,21 +1,25 @@
-Mapa de Uso do Solo em Ipiranga de Goiás (GO)
+Portfólio de Geoprocessamento e Cartografia Digital
 
-Descrição
+Bem-vindo ao meu repositório de projetos em Geoprocessamento e Cartografia. Este espaço reúne mapeamentos temáticos, análises espaciais e produtos cartográficos elaborados no software QGIS, cobrindo tópicos de uso e cobertura do solo, modelos digitais de elevação, análise do relevo e dinâmicas territoriais.
 
-PT: Mapeamento do uso e cobertura do solo no município de Ipiranga de Goiás (GO), desenvolvido no QGIS a partir dos dados temáticos do projeto MapBiomas (Coleção 2022). O mapa evidencia a distribuição territorial das atividades agropecuárias (com predomínio de pastagens e lavouras temporárias) e os remanescentes de vegetação nativa (formações savânicas e florestais).
+O objetivo deste portfólio é documentar fluxos de trabalho em geotecnologias, aplicando técnicas de processamento de dados vetoriais e matriciais (raster), parametrização de Sistemas de Referência de Coordenadas (SRC) e elaboração de layouts segundo normas cartográficas.
 
-EN: Land use and land cover mapping for the municipality of Ipiranga de Goiás, Goiás State (Brazil). Developed in QGIS using thematic raster data from the MapBiomas Project (2022 Collection). The map highlights the spatial distribution of agricultural activities (predominantly pasture and temporary crops) alongside remaining native vegetation patches (savanna and forest formations).
+Estrutura do Repositório:
 
-Ficha Técnica
+Cada projeto está organizado em sua respectiva pasta, contendo:
 
-Software: QGIS 3.40.14 |
+O mapa final exportado em formato de imagem de alta resolução.
 
-Área de Estudo: Ipiranga de Goiás - GO, Brasil |
+A documentação técnica detalhada (fonte dos dados, metodologia e sistema de coordenadas).
 
-Fonte dos Dados: MapBiomas (Base 2022) |
+Habilidades e Ferramentas Aplicadas:
 
-Sistema de Coordenadas: Geográficas / Datum: Brazil Albers |
+Softwares e Geotecnologias: QGIS 3.40.14, Tratamento de Dados Espaciais, Processamento Digital de Imagens (PDI).
 
-Elementos Cartográficos: Legenda temática, escala gráfica, indicação de Norte, grade de coordenadas e bloco de metadados. |
+Bases de Dados Espaciais: MapBiomas, SRTM/Embrapa, IBGE, INPE, USGS.
 
-Elaboração: Matheus Dias de Oliveira
+Cartografia: Sistemas de Referência de Coordenadas (SIRGAS 2000, UTM, Albers), Projeções Cartográficas, Design e Simbologia Temática.
+
+Autor
+Matheus Dias de Oliveira
+Geografia / Geoprocessamento e Análise Espacial
